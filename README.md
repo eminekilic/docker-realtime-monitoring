@@ -22,7 +22,8 @@ The system is fully containerized using **Docker**, ensuring consistency across 
 
 ## 📸 Dashboard Preview
 
-![Grafana Dashboard](dashboard-screenshot.png)
+![Grafana Dashboard](<img width="1466" height="938" alt="Screenshot 2025-12-09 174322" src="https://github.com/user-attachments/assets/d987965a-5511-432c-a3a0-eeced25bb54a" />
+)
 
 *Figure 1: Real-time visualization of the generated telemetry data.*
 
